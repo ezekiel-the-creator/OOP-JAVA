@@ -1,0 +1,23 @@
+Method - a block of code that perorms a specific function created within a class.
+
+Syntax:
+
+  accessModifier returnType methodName(parameters) {
+  //method body
+  }
+  
+The method name has to be descriptive as it explains what the method does.
+
+Example:
+        
+        public class MathHelper {
+              public static int add(int a, int b) {
+               return a + b;
+    }
+}
+        
+To Call this method, create and instance of the class MathHelper, and call this method.
+The method can also be called without creating an instance of the class it is contained by using
+the keyword 'Static' between the access modifier and return type.
+
+Method parameters are values accepted by the method.
