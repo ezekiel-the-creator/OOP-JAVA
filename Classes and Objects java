@@ -1,0 +1,16 @@
+Classes are a blueprint of Objects.
+Objects are instances of a class or classes.
+
+Creating a class syntax:
+      class ClassName {
+      //fields-for data storage
+      //methods-for performing operations
+      }
+      
+Creating an Object syntax:
+
+      className object = new className();
+      
+Fields and methods of a class can be accessed by an object by using the "." operator.
+
+Objects can either be created in or outside the class, however, when creating them outside the class be sure to use the correct access modifier while creating the class.
