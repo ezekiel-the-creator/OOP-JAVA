@@ -1,0 +1,11 @@
+Strings area sequence of characters. 
+Strings are not primitive data types, they are objects of a predefined class named 'String'.
+
+String Operations;
+      Get length - use length() method.
+      join two strings - concat()
+      compare two strings - equals()
+      
+Escape character is used to escape some of the characters present in a string, that is the \ (backslasH)
+Strings are also immutable, once they are created they cannot be changed.
+Strings can also be created using the new keyword since they are objects.
