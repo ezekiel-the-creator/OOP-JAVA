@@ -1,17 +1,17 @@
-Method Overloading - two or more functions have the same name but different parameters(different number of parameters, different types of parameters, or both).
+//Method Overloading - two or more functions have the same name but different parameters(different number of parameters, different types of parameters, or both).
 
-EXAMPLE:
+//EXAMPLE:
 
-    void func() {...}
-    void funct(int a) {...}
-    void func(double a) {...}
-    void func(double a, float b) {.....}
+//    void func() {...}
+//    void func(int a) {...}
+//    void func(double a) {...}
+//    void func(double a, float b) {.....}
    
-Example code:
+//Example code:
 
 class HelperService {
     public String formatNumber (int value) {
-        return String.format("%d", value):
+        return String.format("%d", value);
     }
     
     private String formatNumber (double value){
@@ -26,7 +26,7 @@ class HelperService {
         HelperService hs = new HelperService();
         System.out.println(hs.formatNumber(500));
         System.out.println(hs.formatNumber(89.9934));
-        System.out.println(hs.formatNumber('550'));
+        System.out.println(hs.formatNumber("550"));
     }
 }
 
