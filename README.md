@@ -21,7 +21,7 @@
 
 ### ***Encapsulation***
 
-*A practice of **hiding** the **implementation details** of an object and providing a public interface for accessing the objects attributes and behaviors. It is achieved by using access modifiers*
+*A practice of **hiding** the **implementation details** of an object and providing a public interface for accessing the objects attributes and behaviors. It is achieved by using access modifiers like private, protected, default, public*
 
 ### ***Polymorphism***
 
