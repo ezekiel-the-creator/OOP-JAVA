@@ -18,11 +18,17 @@ We can create a class in java using the `class` keyword. For example,
 In the above example:
 * fields are used to store data(variables) that reperesent states
 * methods are used to perform operations.They represent behavior of an object.
+
 ### ***Object***
 
 *An object is an **instance** of a class. It is a real world entity that has state and behavior. For example a `motorbike` is an object. It has*
 * States: idle, first gear, second gear, etc
 * Behaviors: braking, accelerating and so on
+Below is the syntax to create an object of a class.
+```java
+className objectname = new className();
+```
+We have used the `new` keyword followed by the constructor of the class to create a
 
 ### ***Inheritance***
 
