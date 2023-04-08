@@ -35,7 +35,12 @@ We can access the members of a class by using the name of the object along with 
 Consider the followint example.
 
 ```java
-
+class Motorbike {
+ 
+ int gear = 4;
+ 
+ public void brake(){
+  System.out.println("Decelarating at 7m/s squared")
 
 ### ***Inheritance***
 
