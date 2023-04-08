@@ -39,8 +39,19 @@ class Motorbike {
  
  int gear = 4;
  
- public void brake(){
-  System.out.println("Decelarating at 7m/s squared")
+ public void brake(int d){
+  System.out.println("Decelarating at ")
+ }
+}
+
+//create an object
+Motorbike mountainBike = new MotorBike();
+
+//access members of the class
+mountainBike.gear;
+mountainBike.brake();
+}
+
 
 ### ***Inheritance***
 
