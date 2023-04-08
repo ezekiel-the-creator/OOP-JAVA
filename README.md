@@ -7,7 +7,14 @@
 
 *A **blueprint** for creating objects. It defines the attributes and behaviour that an object of that class will have. They are used to creating objects*
 
-We can create a class 
+We can create a class in java using the `class` keyword. For example, 
+
+ ```java
+ class ClassName{
+  //fields
+  //methods
+}
+```
 
 ### ***Object***
 
