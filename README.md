@@ -28,7 +28,14 @@ Below is the syntax to create an object of a class.
 ```java
 className objectname = new className();
 ```
-We have used the `new` keyword followed by the constructor of the class to create a
+We have used the `new` keyword followed by the constructor of the class to create an object. Constructors are similar to methods and have the same name as the class.
+
+We can access the members of a class by using the name of the object along with `.` operator.
+
+Consider the followint example.
+
+```java
+
 
 ### ***Inheritance***
 
