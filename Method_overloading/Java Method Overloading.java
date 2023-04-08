@@ -15,11 +15,11 @@ class HelperService {
         return String.format("%d", value);
     }
     
-    private String formatNumber (double value){
+    public String formatNumber (double value){
         return String.format("%.3f", value);
     }
     
-    private String formatNumber(String value){
+    public String formatNumber(String value){
         return String.format("%.2f", Double.parseDouble(value));
     }
 }
