@@ -1,12 +1,5 @@
 package Method_overloading;
 //Method Overloading - two or more functions have the same name but different parameters(different number of parameters, different types of parameters, or both).
-
-//EXAMPLE:
-
-//    void func() {...}
-//    void func(int a) {...}
-//    void func(double a) {...}
-//    void func(double a, float b) {.....}
    
 //Example code:
 
