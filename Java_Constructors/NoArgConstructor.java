@@ -3,7 +3,7 @@ package Java_Constructors;
 public class NoArgConstructor {
     int a;
 
-    NoArgConstructor(){
+    private NoArgConstructor(){
         int a = 4;
     }
 
