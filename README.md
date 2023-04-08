@@ -7,9 +7,13 @@
 
 *A **blueprint** for creating objects. It defines the attributes and behaviour that an object of that class will have. They are used to creating objects*
 
+We can create a class 
+
 ### ***Object***
 
-*An object is an **instance** of a class. It is a real world entity that has state and behavior. Objects can interact with each other*
+*An object is an **instance** of a class. It is a real world entity that has state and behavior. For example a `motorbike` is an object. It has*
+* States: idle, first gear, second gear, etc
+* Behaviors: braking, accelerating and so on
 
 ### ***Inheritance***
 
