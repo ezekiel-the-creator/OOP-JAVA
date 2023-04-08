@@ -15,7 +15,9 @@ We can create a class in java using the `class` keyword. For example,
   //methods
 }
 ```
-
+In the above example:
+* fields are used to store data(variables) that reperesent states
+* methods are used to perform operations.
 ### ***Object***
 
 *An object is an **instance** of a class. It is a real world entity that has state and behavior. For example a `motorbike` is an object. It has*
