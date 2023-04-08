@@ -1,4 +1,4 @@
-package Method_overloading;
+package Method_Overloading;
 //Method Overloading - two or more functions have the same name but different parameters(different number of parameters, different types of parameters, or both).
    
 //Example code:
@@ -16,4 +16,3 @@ class HelperService {
         return String.format("%.2f", Double.parseDouble(value));
     }
 }
-
