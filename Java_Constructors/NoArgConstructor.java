@@ -12,3 +12,5 @@ public class NoArgConstructor {
         System.out.println("Value of a is " + obj.a);
     }
 }
+
+//if you want to create objects outside the class, use a public constructor
