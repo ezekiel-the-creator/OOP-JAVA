@@ -47,7 +47,7 @@ class Motorbike {
 //create an object
 Motorbike mountainBike = new MotorBike();
 
-//access members of the class
+//access members of the class using dot(.) operator
 mountainBike.gear;
 mountainBike.brake();
 }
