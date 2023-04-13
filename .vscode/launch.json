@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Java_Singleton_Class.Main",
+            "projectName": "OOP-JAVA_c88cb255"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Java_Anonymous_Class.Main",
             "projectName": "OOP-JAVA_c88cb255"
         },
