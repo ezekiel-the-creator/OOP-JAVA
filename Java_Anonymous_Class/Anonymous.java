@@ -7,5 +7,6 @@ public class Anonymous {
             System.out.println("Inside the anonymous class");
         }
         };
+        p1.display();
     }
 }
