@@ -17,6 +17,6 @@ Here, **Type** can be
 
 Anonymous classes are defined inside an expression and therefore they must end with a semicolon to indicate that they are expresions.
 
-**Advantages of Anonumous Classes**
+**Advantages of Anonymous Classes**
 * Objects are created whenever they are required, ofr example when we need to override a method.
 * It helps to keep code concise.
