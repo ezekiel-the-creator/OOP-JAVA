@@ -15,4 +15,8 @@ public class Database {
         }
         return dbObject;
     }
+
+    public void getConnection() {
+        System.out.println("You are now connected to the Database.");
+    }
 }
