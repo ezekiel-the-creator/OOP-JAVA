@@ -11,4 +11,5 @@ class outerClass {
 }
 ```
 **Advantages of Anonumous Classes**
-* Objec
+* Objects are created whenever they are required, ofr example when we need to override a method.
+* It helps to keep code concise.
