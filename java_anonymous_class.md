@@ -1,11 +1,12 @@
 A java anonymous class is a nested class that doest have a name.
+It is defined inside another class.
 
 It's syntax is:
 
 ```java
 class outerClass {
     //defining anonymous class
-    object1 = new Type(ParameterList) {
+    object = new Type(ParameterList) {
         //body of the anonymous class
     };
 }
