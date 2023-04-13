@@ -6,7 +6,7 @@ It's syntax is:
 ```java
 class outerClass {
     //defining anonymous class
-    object = new Type(ParameterList) {
+    Type object = new Type(ParameterList) {
         //body of the anonymous class
     };
 }
