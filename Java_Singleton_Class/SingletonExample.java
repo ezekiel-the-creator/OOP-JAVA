@@ -7,4 +7,7 @@ public class SingletonExample {
     private SingletonExample(){
 
     }
+    public static SingletonExample getInstance(){
+        
+    }
 }
