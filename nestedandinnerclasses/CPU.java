@@ -1,3 +1,5 @@
+package nestedandinnerclasses;
+
 class CPU {
     double price;
 
