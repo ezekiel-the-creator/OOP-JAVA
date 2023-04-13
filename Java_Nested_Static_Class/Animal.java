@@ -1,4 +1,4 @@
-package stringIoStreams.Java_Nested_Static_Class;
+package Java_Nested_Static_Class;
 
 public class Animal {
     // inner class
