@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Size",
+            "request": "launch",
+            "mainClass": "Java_enums.Size",
+            "projectName": "OOP-JAVA_c88cb255"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Java_enums.Main",
